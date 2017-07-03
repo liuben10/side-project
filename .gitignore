@@ -26,3 +26,6 @@ tags
 
 ## Secrets ##
 client-secret.json
+
+##JENV##
+.java-version
